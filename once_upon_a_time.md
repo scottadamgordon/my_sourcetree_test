@@ -10,3 +10,5 @@ The Markdown file begins its life with new branch, chapter1md. It doesn't know i
 # Chapter 3
 
 Chapter 3 wants to get started, but it thinks that the information in Chapter 1 and Chapter 2 could be *vital* to its endeavors.  
+
+Fortune is in chapter 1 and 3s favor, they were merged successfully. Chapter 2 is still blowing in the wind. But for how long?
