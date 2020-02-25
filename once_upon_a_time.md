@@ -16,3 +16,5 @@ But wait, perhaps we can pull chapter 1 into chapter 2 already... to see how the
 Chapter 3 wants to get started, but it thinks that the information in Chapter 1 and Chapter 2 could be *vital* to its endeavors.  
 
 Fortune is in chapter 1 and 3s favor, they were merged successfully. Chapter 2 is still blowing in the wind. But for how long?
+
+Chapter 2 joins. Now we just need them all in the master file. Is it possible?
