@@ -7,7 +7,7 @@ The Markdown file begins its life with new branch, chapter1md. It doesn't know i
 
 # Chapter 2
 
-The chapter2.md branch was born, though it knew not what would be contained in chapter1.md. The branch was born from the master file, you see. In future, the content of chapters 1, 2, and 3 should have already been outlined somewhere, so that they would make one cohesive story, when they were eventually merged into the master branch. Until then, this is what we have. 
+The chapter2.md branch was born, though it knew not what would be contained in chapter1.md. The branch was born from the master file, you see. In future, the content of chapters 1, 2, and 3 should have already been outlined somewhere, so that they would make one cohesive story, when they were eventually merged into the master branch. Until then, this is what we have.
 
 But wait, perhaps we can pull chapter 1 into chapter 2 already... to see how the plot is developing...
 
@@ -21,4 +21,6 @@ Chapter 2 joins. Now we just need them all in the master file. Is it possible?
 
 # chapter 4
 
-This is the fourth chapter hi
+This is the fourth chapter hi.
+
+Let's get you on GitHub, shall we?
